@@ -1,0 +1,28 @@
+{
+  "name": "koa-version-router",
+  "version": "1.0.0",
+  "description": "auto add version to router",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jackong/koa-version-router.git"
+  },
+  "keywords": [
+    "koa",
+    "version",
+    "router"
+  ],
+  "author": "jackong <jackongc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jackong/koa-version-router/issues"
+  },
+  "homepage": "https://github.com/Jackong/koa-version-router#readme",
+  "dependencies": {
+    "glob": "^5.0.14",
+    "koa-version": "^0.2.0"
+  }
+}
